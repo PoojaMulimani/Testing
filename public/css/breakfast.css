@@ -1,0 +1,26 @@
+<style>
+	<style>
+table, td, th {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}
+
+@media only screen and (max-width: 575px) {
+   input[type=submit].btn-block {
+    width: 31%;
+    -webkit-margin-before: 10px;
+}
+
+}
+
+
+</style>
+</style>
